@@ -1,0 +1,768 @@
+[
+  {
+    "rulenumber": 1,
+    "rulename": "No Genshin Impact",
+    "keywords": [
+      "genshin",
+      "impact",
+    ],
+    "imagelink": "https://c.tenor.com/K6Xe8scPmwMAAAAC/rule1no-genshin-impact-no-genshin-impact.gif"
+  },
+  {
+    "rulenumber": 2,
+    "rulename": "No Friday Night Funkin'",
+    "keywords": [
+      "friday night",
+      "funkin",
+      "fnf"
+    ],
+    "imagelink": "https://c.tenor.com/vhsEQdGUs_IAAAAS/rule2no-friday-night-funkin-fnf.gif"
+  },
+  {
+    "rulenumber": 3,
+    "rulename": "No VTubers",
+    "keywords": [
+      "vtube",
+      "hololive"
+    ],
+    "imagelink": "https://c.tenor.com/MQNwfaUDYN4AAAAS/rule3-rule3no-vtubers.gif"
+  },
+  {
+    "rulenumber": 4,
+    "rulename": "No Madness Combat",
+    "keywords": [
+      "madness combat"
+    ],
+    "imagelink": "https://c.tenor.com/RQsBU_it_7wAAAAC/rule4-no-madness-combat.gif"
+  },
+  {
+    "rulenumber": 5,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 6,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 7,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 8,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 9,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 10,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 11,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 12,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 13,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 14,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 15,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 16,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 17,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 18,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 19,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 20,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 21,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 22,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 23,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 24,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 25,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 26,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 27,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 28,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 29,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 30,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 31,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 32,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 33,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 34,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 35,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 36,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 37,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 38,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 39,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 40,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 41,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 42,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 43,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 44,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 45,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 46,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 47,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 48,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 49,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 50,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 51,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 52,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 53,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 54,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 55,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 56,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 57,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 58,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 59,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 60,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 61,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 62,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 63,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 64,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 65,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 66,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 67,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 68,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 69,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 70,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 71,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 72,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 73,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 74,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 75,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 76,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 77,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 78,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 79,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 80,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 81,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 82,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 83,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 84,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 85,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 86,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 87,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 88,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 89,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 90,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 91,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 92,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 93,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 94,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 95,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 96,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 97,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 98,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 99,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 100,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 101,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 102,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 103,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 104,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 105,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 106,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 107,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 108,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 109,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 110,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 111,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 112,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 113,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 114,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 115,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 116,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 117,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 118,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 119,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 120,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 121,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 122,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 123,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 124,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 125,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 126,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 127,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 128,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 129,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 130,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 131,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 132,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 133,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 134,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 135,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 136,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 137,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 138,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 139,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 140,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 141,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 142,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 143,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 144,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 145,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 146,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 147,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 148,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 149,
+    "keywords": [],
+    "imagelink": ""
+  },
+  {
+    "rulenumber": 150,
+    "keywords": [],
+    "imagelink": ""
+  }
+]
